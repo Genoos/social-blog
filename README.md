@@ -2,6 +2,9 @@
 It is free and open blog to post ,update ,delete your blog and watch other blogs posted and like them
 each post has a details post page it has a comment section and recommended section (takes the tags of current post to filter recommended posts)
 
+Home:
+![Screenshot (16)](https://user-images.githubusercontent.com/63945319/164916136-0d8cf583-e8a7-4aa8-8e6c-5a38df6286ad.png)
+
 SignUp Form:
 ![Screenshot (25)](https://user-images.githubusercontent.com/63945319/164916377-4daf5d61-5580-45f4-a107-cd40af3acaf7.png)
 
@@ -19,13 +22,14 @@ Update Post:
 Search Post with title and tags:
 ![Screenshot (21)](https://user-images.githubusercontent.com/63945319/164916127-3c7ff5f9-e882-42b8-a31b-aff33d84e47c.png)
 
+Post detail page:
 ![Screenshot (23)](https://user-images.githubusercontent.com/63945319/164916130-d6ebb230-9846-45bb-9142-bdb7927f51a6.png)
 
+recommended Posts:
 ![Screenshot (24)](https://user-images.githubusercontent.com/63945319/164916133-72abd70f-192d-4d0e-9e53-0d7490f7f878.png)
 
+Profile:
 ![Screenshot (22)](https://user-images.githubusercontent.com/63945319/164916135-1f7ef72a-66b2-4333-b086-5ba180229714.png)
-
-![Screenshot (16)](https://user-images.githubusercontent.com/63945319/164916136-0d8cf583-e8a7-4aa8-8e6c-5a38df6286ad.png)
 
 Mobile View:
 ![Screenshot (17)](https://user-images.githubusercontent.com/63945319/164916137-5e4dad43-962b-4f40-8f2d-a301eebb1bfe.png)
