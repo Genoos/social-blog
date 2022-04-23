@@ -12,6 +12,9 @@ SignIn Form:
 Create Post
 ![Screenshot (27)](https://user-images.githubusercontent.com/63945319/164916720-2f3da4e9-dffe-45f2-8be1-db1ee42305ee.png)
 
+Update Post:
+![Screenshot (19)](https://user-images.githubusercontent.com/63945319/164916142-85b1c2f7-00eb-4c4a-9ed7-d55ff8cb87f9.png)
+
 
 Search Post with title and tags:
 ![Screenshot (21)](https://user-images.githubusercontent.com/63945319/164916127-3c7ff5f9-e882-42b8-a31b-aff33d84e47c.png)
@@ -24,7 +27,6 @@ Search Post with title and tags:
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/63945319/164916136-0d8cf583-e8a7-4aa8-8e6c-5a38df6286ad.png)
 
+Mobile View:
 ![Screenshot (17)](https://user-images.githubusercontent.com/63945319/164916137-5e4dad43-962b-4f40-8f2d-a301eebb1bfe.png)
 
-Update Post:
-![Screenshot (19)](https://user-images.githubusercontent.com/63945319/164916142-85b1c2f7-00eb-4c4a-9ed7-d55ff8cb87f9.png)
