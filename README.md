@@ -1,4 +1,10 @@
-# social-blog![Screenshot (20)](https://user-images.githubusercontent.com/63945319/164916123-b7b16184-37f7-4f04-8d06-35590ac83e3f.png)
+# social-blog
+It is free and open blog to post ,update ,delete your blog and watch other blogs posted and like them
+each post has a details post page it has a comment section and recommended section (takes the tags of current post to filter recommended posts)
+
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/63945319/164916123-b7b16184-37f7-4f04-8d06-35590ac83e3f.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/63945319/164916127-3c7ff5f9-e882-42b8-a31b-aff33d84e47c.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/63945319/164916130-d6ebb230-9846-45bb-9142-bdb7927f51a6.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/63945319/164916133-72abd70f-192d-4d0e-9e53-0d7490f7f878.png)
