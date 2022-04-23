@@ -3,6 +3,11 @@ It is free and open blog to post ,update ,delete your blog and watch other blogs
 each post has a details post page it has a comment section and recommended section (takes the tags of current post to filter recommended posts)
 
 
+![Screenshot (25)](https://user-images.githubusercontent.com/63945319/164916377-4daf5d61-5580-45f4-a107-cd40af3acaf7.png)
+
+
+![Screenshot (26)](https://user-images.githubusercontent.com/63945319/164916380-2605adda-c8a0-4931-ab97-312e3cb099b2.png)
+
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/63945319/164916123-b7b16184-37f7-4f04-8d06-35590ac83e3f.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/63945319/164916127-3c7ff5f9-e882-42b8-a31b-aff33d84e47c.png)
@@ -13,5 +18,3 @@ each post has a details post page it has a comment section and recommended secti
 ![Screenshot (17)](https://user-images.githubusercontent.com/63945319/164916137-5e4dad43-962b-4f40-8f2d-a301eebb1bfe.png)
 ![Screenshot (18)](https://user-images.githubusercontent.com/63945319/164916138-e5914ec1-18d9-4377-9112-b3580f0589af.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/63945319/164916142-85b1c2f7-00eb-4c4a-9ed7-d55ff8cb87f9.png)
-![Screenshot (25)](https://user-images.githubusercontent.com/63945319/164916377-4daf5d61-5580-45f4-a107-cd40af3acaf7.png)
-![Screenshot (26)](https://user-images.githubusercontent.com/63945319/164916380-2605adda-c8a0-4931-ab97-312e3cb099b2.png)
