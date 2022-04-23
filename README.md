@@ -14,8 +14,6 @@ Create Post
 
 
 Search Post with title and tags:
-![Screenshot (20)](https://user-images.githubusercontent.com/63945319/164916123-b7b16184-37f7-4f04-8d06-35590ac83e3f.png)
-
 ![Screenshot (21)](https://user-images.githubusercontent.com/63945319/164916127-3c7ff5f9-e882-42b8-a31b-aff33d84e47c.png)
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/63945319/164916130-d6ebb230-9846-45bb-9142-bdb7927f51a6.png)
