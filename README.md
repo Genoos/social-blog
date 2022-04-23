@@ -13,3 +13,5 @@ each post has a details post page it has a comment section and recommended secti
 ![Screenshot (17)](https://user-images.githubusercontent.com/63945319/164916137-5e4dad43-962b-4f40-8f2d-a301eebb1bfe.png)
 ![Screenshot (18)](https://user-images.githubusercontent.com/63945319/164916138-e5914ec1-18d9-4377-9112-b3580f0589af.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/63945319/164916142-85b1c2f7-00eb-4c4a-9ed7-d55ff8cb87f9.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/63945319/164916377-4daf5d61-5580-45f4-a107-cd40af3acaf7.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/63945319/164916380-2605adda-c8a0-4931-ab97-312e3cb099b2.png)
