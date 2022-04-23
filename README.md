@@ -2,8 +2,12 @@
 It is free and open blog to post ,update ,delete your blog and watch other blogs posted and like them
 each post has a details post page it has a comment section and recommended section (takes the tags of current post to filter recommended posts)
 
+ulr:https://postblogs.herokuapp.com/c/posts
+
+
 Home:
-![Screenshot (16)](https://user-images.githubusercontent.com/63945319/164916136-0d8cf583-e8a7-4aa8-8e6c-5a38df6286ad.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/63945319/164916995-dde4ae10-b7eb-477a-b939-bd741b0c1b1c.png)
+
 
 SignUp Form:
 ![Screenshot (25)](https://user-images.githubusercontent.com/63945319/164916377-4daf5d61-5580-45f4-a107-cd40af3acaf7.png)
@@ -15,7 +19,7 @@ SignIn Form:
 Create Post
 ![Screenshot (27)](https://user-images.githubusercontent.com/63945319/164916720-2f3da4e9-dffe-45f2-8be1-db1ee42305ee.png)
 
-Update Post:
+Update Post,Delete ,Like:
 ![Screenshot (19)](https://user-images.githubusercontent.com/63945319/164916142-85b1c2f7-00eb-4c4a-9ed7-d55ff8cb87f9.png)
 
 
