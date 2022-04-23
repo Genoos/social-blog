@@ -9,6 +9,11 @@ SignIn Form:
 ![Screenshot (26)](https://user-images.githubusercontent.com/63945319/164916380-2605adda-c8a0-4931-ab97-312e3cb099b2.png)
 
 
+Create Post
+![Screenshot (27)](https://user-images.githubusercontent.com/63945319/164916720-2f3da4e9-dffe-45f2-8be1-db1ee42305ee.png)
+
+
+Search Post with title and tags:
 ![Screenshot (20)](https://user-images.githubusercontent.com/63945319/164916123-b7b16184-37f7-4f04-8d06-35590ac83e3f.png)
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/63945319/164916127-3c7ff5f9-e882-42b8-a31b-aff33d84e47c.png)
