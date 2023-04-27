@@ -6,6 +6,8 @@ import auth from '../middleware/authmiddleware.js';
 const router=Express.Router();
 
 
+
+
 router.post('/',auth,createpost);
 router.get('/creator', getPostsByCreator);
 router.get('/',getposts);
@@ -17,7 +19,5 @@ router.patch('/:id',auth, updatepost);
 router.delete('/:id',auth, deletepost);
 router.post('/:id/commentPost',commentPost);
 router.patch('/:id/likepost',auth,likepost);
-
-
 
 export default router;
